@@ -1,4 +1,4 @@
-# json
+# JSON
 Making an API  call using JSON objects.
 The details present in the json object is displayed in a layout.
 ## PRE-REQUISITES
