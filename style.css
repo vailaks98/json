@@ -1,0 +1,24 @@
+
+
+  .table-hover>tbody>tr:hover>td, .table-hover>tbody>tr:hover>th {
+
+  background-color:#B0E0E6;
+  color:black;
+}
+
+.table th {
+  background-color:  #FFD700;
+  color: black;
+
+  }
+
+  .table td{
+    background-color: rgb(245,245,220);
+  }
+@media screen and (max-width:900px){
+  .table{
+    box-sizing: border-box;
+    padding: 15px;
+    text-align: left;
+  }
+}
